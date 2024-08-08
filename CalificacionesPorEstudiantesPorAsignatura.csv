@@ -1,0 +1,101 @@
+calificacion,nombres,asignatura
+4.5,Carlos,Matemáticas
+3.8,Carlos,Historia
+4.2,Carlos,Ciencias
+4.0,Carlos,Lenguaje
+3.9,Carlos,Geografía
+4.1,Carlos,Física
+4.3,Carlos,Química
+3.7,Carlos,Biología
+4.4,Carlos,"Educación Física"
+3.6,Carlos,Artes
+4.6,Lucía,Matemáticas
+3.9,Lucía,Historia
+4.1,Lucía,Ciencias
+4.3,Lucía,Lenguaje
+3.7,Lucía,Geografía
+4.2,Lucía,Física
+4.4,Lucía,Química
+3.8,Lucía,Biología
+4.5,Lucía,"Educación Física"
+3.9,Lucía,Artes
+4.4,Miguel,Matemáticas
+3.7,Miguel,Historia
+4.0,Miguel,Ciencias
+4.2,Miguel,Lenguaje
+3.6,Miguel,Geografía
+4.1,Miguel,Física
+4.3,Miguel,Química
+3.8,Miguel,Biología
+4.0,Miguel,"Educación Física"
+3.7,Miguel,Artes
+4.5,Sofía,Matemáticas
+4.0,Sofía,Historia
+4.1,Sofía,Ciencias
+4.4,Sofía,Lenguaje
+3.8,Sofía,Geografía
+4.2,Sofía,Física
+4.3,Sofía,Química
+3.9,Sofía,Biología
+4.1,Sofía,"Educación Física"
+3.6,Sofía,Artes
+4.3,Diego,Matemáticas
+3.8,Diego,Historia
+4.0,Diego,Ciencias
+4.2,Diego,Lenguaje
+3.9,Diego,Geografía
+4.1,Diego,Física
+4.3,Diego,Química
+3.7,Diego,Biología
+4.5,Diego,"Educación Física"
+3.8,Diego,Artes
+4.2,Valeria,Matemáticas
+4.1,Valeria,Historia
+4.4,Valeria,Ciencias
+4.0,Valeria,Lenguaje
+3.8,Valeria,Geografía
+4.2,Valeria,Física
+4.3,Valeria,Química
+3.9,Valeria,Biología
+4.1,Valeria,"Educación Física"
+3.7,Valeria,Artes
+4.5,Javier,Matemáticas
+3.7,Javier,Historia
+4.2,Javier,Ciencias
+4.1,Javier,Lenguaje
+3.9,Javier,Geografía
+4.4,Javier,Física
+4.3,Javier,Química
+3.8,Javier,Biología
+4.5,Javier,"Educación Física"
+3.6,Javier,Artes
+4.1,Camila,Matemáticas
+4.0,Camila,Historia
+4.2,Camila,Ciencias
+4.3,Camila,Lenguaje
+3.8,Camila,Geografía
+4.1,Camila,Física
+4.5,Camila,Química
+3.6,Camila,Biología
+4.2,Camila,"Educación Física"
+3.9,Camila,Artes
+4.0,Alejandro,Matemáticas
+3.9,Alejandro,Historia
+4.1,Alejandro,Ciencias
+4.3,Alejandro,Lenguaje
+3.7,Alejandro,Geografía
+4.2,Alejandro,Física
+4.4,Alejandro,Química
+3.8,Alejandro,Biología
+4.5,Alejandro,"Educación Física"
+3.6,Alejandro,Artes
+4.3,Isabella,Matemáticas
+3.8,Isabella,Historia
+4.0,Isabella,Ciencias
+4.1,Isabella,Lenguaje
+3.9,Isabella,Geografía
+4.2,Isabella,Física
+4.3,Isabella,Química
+3.7,Isabella,Biología
+4.4,Isabella,"Educación Física"
+3.6,Isabella,Artes
